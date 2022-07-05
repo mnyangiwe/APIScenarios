@@ -11,7 +11,7 @@
 * [Tool for Non-functional tests]()
 
 ## General info
-This project is an automating the CocktailBD service using rest assured and testng.
+This project is automating the CocktailBD service using rest assured and testng.
 
 ## Project Structure
 On an upper level it contains two directories: Reporting and src.
