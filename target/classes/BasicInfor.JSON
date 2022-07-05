@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://www.thecocktaildb.com/api/json/v1/1",
+  "endPoint": "/search.php",
+  "expectedStatus": 200
+}
